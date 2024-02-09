@@ -1,0 +1,10 @@
+# Important!
+
+1. The Sign-up and Sign-in is correctly working (With Jwt, bcrypt and session storage)
+2. The questions are getting fetched correctly and shown to the user
+3. The answer checking part is not working
+4. Schemes are implemented correctly
+5. Main routes are created correctly as per the requirements
+6. Logic implementation is done correctly
+7. The score mechanism is not working since there are errors with answers match
+8. Basic styles have been applied
